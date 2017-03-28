@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsMaster" value="name:GalleryID;datatype:bigint,name:GalleryName;datatype:varchar,name:MenuTitle;datatype:varchar,name:DateCreated;datatype:smalldatetime" />
+</info>
